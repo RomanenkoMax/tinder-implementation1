@@ -1,0 +1,13 @@
+ua\danit\entity\Like.class
+ua\danit\servlet\LoginServlet.class
+ua\danit\util\FreemarkerHandler.class
+ua\danit\AppRunner.class
+ua\danit\entity\User.class
+ua\danit\servlet\MessagesServlet.class
+ua\danit\util\DatabaseConnection.class
+ua\danit\servlet\LikedServlet.class
+ua\danit\dao\UsersDao.class
+ua\danit\servlet\UsersServlet.class
+ua\danit\filter\LoginFilter.class
+ua\danit\util\TinderServer.class
+ua\danit\entity\Message.class

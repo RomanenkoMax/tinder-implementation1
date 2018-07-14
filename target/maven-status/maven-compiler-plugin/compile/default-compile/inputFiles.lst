@@ -1,0 +1,13 @@
+D:\tinder_implementation\src\main\java\ua\danit\util\DatabaseConnection.java
+D:\tinder_implementation\src\main\java\ua\danit\entity\Like.java
+D:\tinder_implementation\src\main\java\ua\danit\filter\LoginFilter.java
+D:\tinder_implementation\src\main\java\ua\danit\servlet\LikedServlet.java
+D:\tinder_implementation\src\main\java\ua\danit\util\FreemarkerHandler.java
+D:\tinder_implementation\src\main\java\ua\danit\entity\Message.java
+D:\tinder_implementation\src\main\java\ua\danit\util\TinderServer.java
+D:\tinder_implementation\src\main\java\ua\danit\AppRunner.java
+D:\tinder_implementation\src\main\java\ua\danit\servlet\UsersServlet.java
+D:\tinder_implementation\src\main\java\ua\danit\dao\UsersDao.java
+D:\tinder_implementation\src\main\java\ua\danit\servlet\LoginServlet.java
+D:\tinder_implementation\src\main\java\ua\danit\servlet\MessagesServlet.java
+D:\tinder_implementation\src\main\java\ua\danit\entity\User.java
